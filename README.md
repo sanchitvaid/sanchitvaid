@@ -6,7 +6,7 @@ I’m a **Data Analyst** with 3+ years of experience transforming raw data into 
 📍 Based in New Delhi, India
 🎯 Actively exploring Data Analytics roles in Germany and the Netherlands
 🧳 Open to relocation and seeking companies offering visa sponsorship
-🇩🇪 Languages: German (B1), English (C2), Hindi (Native)
+Languages: German (B1), English (C2), Hindi (Native)
 🧠 Enjoy working on end-to-end data projects — from cleaning to visualization
 
 ---
