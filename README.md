@@ -1,21 +1,30 @@
-# 👋 Hi, I'm Sanchit Vaid
+# Hi, I'm Sanchit Vaid
 
-I’m a **Data Analyst** with 3+ years of experience transforming raw data into insights using **SQL, Power BI, and Python**.
+Data Analyst with 3+ years of experience in product analytics, 
+A/B experimentation, and statistical modelling across large-scale 
+platforms (2.7M+ users). I specialise in hypothesis-driven analysis 
+— designing experiments, diagnosing metric drops, and translating 
+complex data into decisions that move products forward.
 
-### 🌍 About Me
-📍 Based in New Delhi, India
-🎯 Actively exploring Data Analytics roles in Germany and the Netherlands
-🧳 Open to relocation and seeking companies offering visa sponsorship
-Languages: German (B1), English (C2), Hindi (Native)
-🧠 Enjoy working on end-to-end data projects — from cleaning to visualization
-
----
-
-### 🔧 Tools & Skills
-SQL | Power BI | Python | Excel | Data Visualization | Business Analytics
+Currently at EXL Service, working on retention analytics and 
+experimentation.
 
 ---
 
-### 📫 Connect with me
-- [LinkedIn] (https://linkedin.com/in/sanchitvaid)
-- 📧 sanchitvaid78@gmail.com
+## Skills & Tools
+
+**Analytics:** A/B Testing · Hypothesis Testing · Statistical Modelling · 
+Variance Reduction · KPI Definition · Cohort Analysis · Funnel Analysis
+
+**Programming & Data:** SQL (Advanced) · Python (Pandas, NumPy, SciPy) · 
+DBT · Git
+
+**Platforms:** Power BI · Tableau · BigQuery · Azure Databricks · 
+Looker Studio · Airflow
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/sanchitvaid) · 
+[sanchitvaid78@gmail.com](mailto:sanchitvaid78@gmail.com)
